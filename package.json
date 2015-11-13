@@ -1,7 +1,7 @@
 {
   "name": "cast-array",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ensure a value is an array and wrap it if it is not an array",
   "license": "MIT",
   "repository": "bendrucker/cast-array",
