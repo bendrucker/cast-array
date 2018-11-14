@@ -1,4 +1,4 @@
-# cast-array [![Build Status](https://travis-ci.org/bendrucker/cast-array.svg?branch=master)](https://travis-ci.org/bendrucker/cast-array)
+# cast-array [![Build Status](https://travis-ci.org/bendrucker/cast-array.svg?branch=master)](https://travis-ci.org/bendrucker/cast-array) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/cast-array.svg)](https://greenkeeper.io/)
 
 > Ensure a value is an array and wrap it if it is not an array
 
