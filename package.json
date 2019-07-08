@@ -26,6 +26,6 @@
     "index.js"
   ],
   "dependencies": {
-    "isarray": "2.0.4"
+    "isarray": "2.0.5"
   }
 }
