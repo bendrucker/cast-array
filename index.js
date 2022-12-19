@@ -1,6 +1,6 @@
 'use strict'
 
-var isArray = require('isarray')
+var isArray = Array.isArray
 
 module.exports = function castArray (value) {
   return isArray(value) ? value : [value]
